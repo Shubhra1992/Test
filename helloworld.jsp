@@ -15,7 +15,7 @@ Time: <%=new java.util.Date() %>
 <%
 
 	for (int i=1; i<5 ; i++){
-			out.println("<br/>Number:"+i);
+			out.println("<br/>NumberS:"+i);
 	}
 
 %>
